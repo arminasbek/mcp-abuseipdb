@@ -40,10 +40,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abe-source/mcp-abuseipdb.git"
+    "url": "git+https://github.com/arminasbek/mcp-abuseipdb.git"
   },
-  "homepage": "https://github.com/abe-source/mcp-abuseipdb#readme",
+  "homepage": "https://github.com/arminasbek/mcp-abuseipdb#readme",
   "bugs": {
-    "url": "https://github.com/abe-source/mcp-abuseipdb/issues"
+    "url": "https://github.com/arminasbek/mcp-abuseipdb/issues"
   }
 }
